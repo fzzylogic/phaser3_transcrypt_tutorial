@@ -18,3 +18,5 @@ Set up as follows:
     python -m http.server 8001      # or choose another from [here](https://gist.github.com/willurd/5720255)
 
 Point browser to localhost:8001
+
+[License](https://github.com/photonstorm/phaser/blob/master/license.txt)
