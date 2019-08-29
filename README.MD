@@ -19,4 +19,4 @@ Set up as follows:
 
 Point browser to localhost:8001
 
-[License](https://github.com/photonstorm/phaser/blob/master/license.txt)
+[License](https://github.com/photonstorm/phaser/blob/master/LICENSE.md)
