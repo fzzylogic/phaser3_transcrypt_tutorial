@@ -19,4 +19,11 @@ Set up as follows:
 
 Point browser to localhost:8001
 
+Updated for Transcrypt 3.7.16:
+
+    <script type="text/javascript" src="__javascript__/game.js"></script>
+    # updated to
+    <script type="module" src="__target__/game.js"></script>
+
+
 [License](https://github.com/photonstorm/phaser/blob/master/LICENSE.md)
